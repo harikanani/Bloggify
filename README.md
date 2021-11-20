@@ -99,7 +99,7 @@
             "username": "john01",
             "email": "john01@gmail.com",
             "full_name": "John Doe",
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvaG4wMSIsImVtYWlsIjoiam9objAxQGdtYWlsLmNvbSIsInVzZXJfaWQiOiI2MTk5MDM5ZjJiODhmYWJjNjg0YWIzMmYiLCJpYXQiOjE2Mzc0MTc5MjIsImV4cCI6MTYzNzUwNDMyMn0.H3KYHoLictbjki4MauLIQsHxADIz8as7e6g8JVloNl0"
+            "token": "token"
         }
     }
 
